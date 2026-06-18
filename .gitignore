@@ -1,0 +1,28 @@
+# Data
+
+data/
+raw_data/
+processed_data/
+
+# Python
+
+**pycache**/
+*.pyc
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# MacOS
+
+.DS_Store
+
+# Temporary files
+
+*.tmp
