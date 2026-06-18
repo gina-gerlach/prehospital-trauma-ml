@@ -72,7 +72,7 @@ prehospital-trauma-ml/
 ├── notebooks/
 │   ├── 01_data_preparation.ipynb
 │   └── 02_model_development.ipynb
-├── reference/
+├── references/
 │   ├── category_mapping.xlsx
 │   └── translation_mapping.xlsx
 ├── figures/

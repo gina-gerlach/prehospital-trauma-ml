@@ -6,7 +6,7 @@ processed_data/
 
 # Python
 
-**pycache**/
+__pycache__/
 *.pyc
 
 # Jupyter
